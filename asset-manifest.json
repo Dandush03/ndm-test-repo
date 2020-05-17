@@ -1,31 +1,36 @@
 {
   "files": {
-    "main.css": "/ndm-test-repo/static/css/main.c3b5a69e.chunk.css",
-    "main.js": "/ndm-test-repo/static/js/main.ff8c3aff.chunk.js",
-    "main.js.map": "/ndm-test-repo/static/js/main.ff8c3aff.chunk.js.map",
+    "main.css": "/ndm-test-repo/static/css/main.054202ea.chunk.css",
+    "main.js": "/ndm-test-repo/static/js/main.aa17ca1c.chunk.js",
+    "main.js.map": "/ndm-test-repo/static/js/main.aa17ca1c.chunk.js.map",
     "runtime-main.js": "/ndm-test-repo/static/js/runtime-main.41cdcda8.js",
     "runtime-main.js.map": "/ndm-test-repo/static/js/runtime-main.41cdcda8.js.map",
-    "static/js/2.4a2c8e12.chunk.js": "/ndm-test-repo/static/js/2.4a2c8e12.chunk.js",
-    "static/js/2.4a2c8e12.chunk.js.map": "/ndm-test-repo/static/js/2.4a2c8e12.chunk.js.map",
+    "static/js/2.fd5386d5.chunk.js": "/ndm-test-repo/static/js/2.fd5386d5.chunk.js",
+    "static/js/2.fd5386d5.chunk.js.map": "/ndm-test-repo/static/js/2.fd5386d5.chunk.js.map",
     "index.html": "/ndm-test-repo/index.html",
-    "precache-manifest.15c59def7cceee1e2203dab7ba14da7f.js": "/ndm-test-repo/precache-manifest.15c59def7cceee1e2203dab7ba14da7f.js",
+    "precache-manifest.0f0d62b1ce126e430fe81cfbaa0107db.js": "/ndm-test-repo/precache-manifest.0f0d62b1ce126e430fe81cfbaa0107db.js",
     "service-worker.js": "/ndm-test-repo/service-worker.js",
-    "static/css/main.c3b5a69e.chunk.css.map": "/ndm-test-repo/static/css/main.c3b5a69e.chunk.css.map",
-    "static/js/2.4a2c8e12.chunk.js.LICENSE.txt": "/ndm-test-repo/static/js/2.4a2c8e12.chunk.js.LICENSE.txt",
+    "static/css/main.054202ea.chunk.css.map": "/ndm-test-repo/static/css/main.054202ea.chunk.css.map",
+    "static/js/2.fd5386d5.chunk.js.LICENSE.txt": "/ndm-test-repo/static/js/2.fd5386d5.chunk.js.LICENSE.txt",
+    "static/media/bottom.scss": "/ndm-test-repo/static/media/SuezOne-Regular.0d5f74db.ttf",
+    "static/media/gallery_01.jpg": "/ndm-test-repo/static/media/gallery_01.609707bb.jpg",
+    "static/media/gallery_02.jpg": "/ndm-test-repo/static/media/gallery_02.28749e82.jpg",
+    "static/media/gallery_03.jpg": "/ndm-test-repo/static/media/gallery_03.1605fa19.jpg",
+    "static/media/gallery_04.jpg": "/ndm-test-repo/static/media/gallery_04.34600d6c.jpg",
     "static/media/areas.scss": "/ndm-test-repo/static/media/list-type.231c34bb.svg",
-    "static/media/gallery_01.jpg": "/ndm-test-repo/static/media/gallery_01.40bd2d9b.jpg",
-    "static/media/gallery_02.jpg": "/ndm-test-repo/static/media/gallery_02.b1715ced.jpg",
-    "static/media/gallery_03.jpg": "/ndm-test-repo/static/media/gallery_03.e16db7d6.jpg",
-    "static/media/gallery_04.jpg": "/ndm-test-repo/static/media/gallery_04.785f4029.jpg",
+    "static/media/logo-small.png": "/ndm-test-repo/static/media/logo-small.24adafc7.png",
     "static/media/logo.png": "/ndm-test-repo/static/media/logo.d1cbca6c.png",
     "static/media/panama1.png": "/ndm-test-repo/static/media/panama1.694ba676.png",
     "static/media/panama2.jpg": "/ndm-test-repo/static/media/panama2.2444d6b0.jpg",
-    "static/media/panama3.jpg": "/ndm-test-repo/static/media/panama3.ff15a53e.jpg"
+    "static/media/panama3.jpg": "/ndm-test-repo/static/media/panama3.ff15a53e.jpg",
+    "static/media/panama4.jpg": "/ndm-test-repo/static/media/panama4.8a4bb5b2.jpg",
+    "static/media/quote.jpg": "/ndm-test-repo/static/media/quote.761b0943.jpg",
+    "static/media/sub-hero.jpg": "/ndm-test-repo/static/media/sub-hero.de4317a5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.41cdcda8.js",
-    "static/js/2.4a2c8e12.chunk.js",
-    "static/css/main.c3b5a69e.chunk.css",
-    "static/js/main.ff8c3aff.chunk.js"
+    "static/js/2.fd5386d5.chunk.js",
+    "static/css/main.054202ea.chunk.css",
+    "static/js/main.aa17ca1c.chunk.js"
   ]
 }
