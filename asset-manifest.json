@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ndm-test-repo/static/css/main.6a250077.chunk.css",
+    "main.css": "/ndm-test-repo/static/css/main.2e9dee7f.chunk.css",
     "main.js": "/ndm-test-repo/static/js/main.aa17ca1c.chunk.js",
     "main.js.map": "/ndm-test-repo/static/js/main.aa17ca1c.chunk.js.map",
     "runtime-main.js": "/ndm-test-repo/static/js/runtime-main.41cdcda8.js",
@@ -8,9 +8,9 @@
     "static/js/2.fd5386d5.chunk.js": "/ndm-test-repo/static/js/2.fd5386d5.chunk.js",
     "static/js/2.fd5386d5.chunk.js.map": "/ndm-test-repo/static/js/2.fd5386d5.chunk.js.map",
     "index.html": "/ndm-test-repo/index.html",
-    "precache-manifest.e7419038c34c56052c149fcb1aa2ae9d.js": "/ndm-test-repo/precache-manifest.e7419038c34c56052c149fcb1aa2ae9d.js",
+    "precache-manifest.e3b6f72d9236de93fba92ffc1a00daf6.js": "/ndm-test-repo/precache-manifest.e3b6f72d9236de93fba92ffc1a00daf6.js",
     "service-worker.js": "/ndm-test-repo/service-worker.js",
-    "static/css/main.6a250077.chunk.css.map": "/ndm-test-repo/static/css/main.6a250077.chunk.css.map",
+    "static/css/main.2e9dee7f.chunk.css.map": "/ndm-test-repo/static/css/main.2e9dee7f.chunk.css.map",
     "static/js/2.fd5386d5.chunk.js.LICENSE.txt": "/ndm-test-repo/static/js/2.fd5386d5.chunk.js.LICENSE.txt",
     "static/media/bottom.scss": "/ndm-test-repo/static/media/SuezOne-Regular.0d5f74db.ttf",
     "static/media/gallery_01.jpg": "/ndm-test-repo/static/media/gallery_01.609707bb.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.41cdcda8.js",
     "static/js/2.fd5386d5.chunk.js",
-    "static/css/main.6a250077.chunk.css",
+    "static/css/main.2e9dee7f.chunk.css",
     "static/js/main.aa17ca1c.chunk.js"
   ]
 }
