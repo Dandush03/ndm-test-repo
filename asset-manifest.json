@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ndm-test-repo/static/css/main.5d391991.chunk.css",
-    "main.js": "/ndm-test-repo/static/js/main.cd238062.chunk.js",
-    "main.js.map": "/ndm-test-repo/static/js/main.cd238062.chunk.js.map",
+    "main.css": "/ndm-test-repo/static/css/main.dc7f9f21.chunk.css",
+    "main.js": "/ndm-test-repo/static/js/main.d5e4c40c.chunk.js",
+    "main.js.map": "/ndm-test-repo/static/js/main.d5e4c40c.chunk.js.map",
     "runtime-main.js": "/ndm-test-repo/static/js/runtime-main.41cdcda8.js",
     "runtime-main.js.map": "/ndm-test-repo/static/js/runtime-main.41cdcda8.js.map",
-    "static/js/2.fd5386d5.chunk.js": "/ndm-test-repo/static/js/2.fd5386d5.chunk.js",
-    "static/js/2.fd5386d5.chunk.js.map": "/ndm-test-repo/static/js/2.fd5386d5.chunk.js.map",
+    "static/js/2.ad226f79.chunk.js": "/ndm-test-repo/static/js/2.ad226f79.chunk.js",
+    "static/js/2.ad226f79.chunk.js.map": "/ndm-test-repo/static/js/2.ad226f79.chunk.js.map",
     "index.html": "/ndm-test-repo/index.html",
-    "precache-manifest.1f21b7e88089fc2f7c9e51b4cd8efb75.js": "/ndm-test-repo/precache-manifest.1f21b7e88089fc2f7c9e51b4cd8efb75.js",
+    "precache-manifest.35b777ffce9441d0b260eab5409d29f8.js": "/ndm-test-repo/precache-manifest.35b777ffce9441d0b260eab5409d29f8.js",
     "service-worker.js": "/ndm-test-repo/service-worker.js",
-    "static/css/main.5d391991.chunk.css.map": "/ndm-test-repo/static/css/main.5d391991.chunk.css.map",
-    "static/js/2.fd5386d5.chunk.js.LICENSE.txt": "/ndm-test-repo/static/js/2.fd5386d5.chunk.js.LICENSE.txt",
-    "static/media/bottom.scss": "/ndm-test-repo/static/media/SuezOne-Regular.0d5f74db.ttf",
+    "static/css/main.dc7f9f21.chunk.css.map": "/ndm-test-repo/static/css/main.dc7f9f21.chunk.css.map",
+    "static/js/2.ad226f79.chunk.js.LICENSE.txt": "/ndm-test-repo/static/js/2.ad226f79.chunk.js.LICENSE.txt",
+    "static/media/contact.scss": "/ndm-test-repo/static/media/SuezOne-Regular.0d5f74db.ttf",
     "static/media/gallery_01.jpg": "/ndm-test-repo/static/media/gallery_01.609707bb.jpg",
     "static/media/gallery_02.jpg": "/ndm-test-repo/static/media/gallery_02.28749e82.jpg",
     "static/media/gallery_03.jpg": "/ndm-test-repo/static/media/gallery_03.1605fa19.jpg",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.41cdcda8.js",
-    "static/js/2.fd5386d5.chunk.js",
-    "static/css/main.5d391991.chunk.css",
-    "static/js/main.cd238062.chunk.js"
+    "static/js/2.ad226f79.chunk.js",
+    "static/css/main.dc7f9f21.chunk.css",
+    "static/js/main.d5e4c40c.chunk.js"
   ]
 }
