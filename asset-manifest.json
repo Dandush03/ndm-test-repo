@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/ndm-test-repo/static/css/main.6c89d3a0.chunk.css",
-    "main.js": "/ndm-test-repo/static/js/main.b7af5b8d.chunk.js",
-    "main.js.map": "/ndm-test-repo/static/js/main.b7af5b8d.chunk.js.map",
+    "main.css": "/ndm-test-repo/static/css/main.e433201c.chunk.css",
+    "main.js": "/ndm-test-repo/static/js/main.285eca7a.chunk.js",
+    "main.js.map": "/ndm-test-repo/static/js/main.285eca7a.chunk.js.map",
     "runtime-main.js": "/ndm-test-repo/static/js/runtime-main.aa480b14.js",
     "runtime-main.js.map": "/ndm-test-repo/static/js/runtime-main.aa480b14.js.map",
-    "static/js/2.c249d19c.chunk.js": "/ndm-test-repo/static/js/2.c249d19c.chunk.js",
-    "static/js/2.c249d19c.chunk.js.map": "/ndm-test-repo/static/js/2.c249d19c.chunk.js.map",
+    "static/js/2.05376468.chunk.js": "/ndm-test-repo/static/js/2.05376468.chunk.js",
+    "static/js/2.05376468.chunk.js.map": "/ndm-test-repo/static/js/2.05376468.chunk.js.map",
     "index.html": "/ndm-test-repo/index.html",
-    "precache-manifest.f31451d0038b741566dc7a6904a70a9b.js": "/ndm-test-repo/precache-manifest.f31451d0038b741566dc7a6904a70a9b.js",
+    "precache-manifest.5a6a3c057b90098dcee42f112da9fcb5.js": "/ndm-test-repo/precache-manifest.5a6a3c057b90098dcee42f112da9fcb5.js",
     "service-worker.js": "/ndm-test-repo/service-worker.js",
-    "static/css/main.6c89d3a0.chunk.css.map": "/ndm-test-repo/static/css/main.6c89d3a0.chunk.css.map",
-    "static/js/2.c249d19c.chunk.js.LICENSE.txt": "/ndm-test-repo/static/js/2.c249d19c.chunk.js.LICENSE.txt",
+    "static/css/main.e433201c.chunk.css.map": "/ndm-test-repo/static/css/main.e433201c.chunk.css.map",
+    "static/js/2.05376468.chunk.js.LICENSE.txt": "/ndm-test-repo/static/js/2.05376468.chunk.js.LICENSE.txt",
     "static/media/contact.scss": "/ndm-test-repo/static/media/SuezOne-Regular.0d5f74db.ttf",
     "static/media/gallery_01.jpg": "/ndm-test-repo/static/media/gallery_01.609707bb.jpg",
     "static/media/gallery_02.jpg": "/ndm-test-repo/static/media/gallery_02.28749e82.jpg",
     "static/media/gallery_03.jpg": "/ndm-test-repo/static/media/gallery_03.1605fa19.jpg",
     "static/media/gallery_04.jpg": "/ndm-test-repo/static/media/gallery_04.34600d6c.jpg",
+    "static/media/info.png": "/ndm-test-repo/static/media/info.cb0b212b.png",
     "static/media/areas.scss": "/ndm-test-repo/static/media/list-type.c91343f2.svg",
     "static/media/logo-small.png": "/ndm-test-repo/static/media/logo-small.24adafc7.png",
     "static/media/logo.png": "/ndm-test-repo/static/media/logo.d1cbca6c.png",
@@ -29,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.aa480b14.js",
-    "static/js/2.c249d19c.chunk.js",
-    "static/css/main.6c89d3a0.chunk.css",
-    "static/js/main.b7af5b8d.chunk.js"
+    "static/js/2.05376468.chunk.js",
+    "static/css/main.e433201c.chunk.css",
+    "static/js/main.285eca7a.chunk.js"
   ]
 }

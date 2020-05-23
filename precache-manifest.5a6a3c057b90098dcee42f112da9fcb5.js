@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ade6c3b5ebd0a4e42fcc36c121a3c8bc",
+    "revision": "8e65fa1d4a11dba8a76131b812071d25",
     "url": "/ndm-test-repo/index.html"
   },
   {
-    "revision": "2a193b3e569c7c8bcef9",
-    "url": "/ndm-test-repo/static/css/main.6c89d3a0.chunk.css"
+    "revision": "215189967b6a5948d0d0",
+    "url": "/ndm-test-repo/static/css/main.e433201c.chunk.css"
   },
   {
-    "revision": "8fdf1905a1bdfdec8b0a",
-    "url": "/ndm-test-repo/static/js/2.c249d19c.chunk.js"
+    "revision": "5b8d19b5e95d5dbdc2ac",
+    "url": "/ndm-test-repo/static/js/2.05376468.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/ndm-test-repo/static/js/2.c249d19c.chunk.js.LICENSE.txt"
+    "url": "/ndm-test-repo/static/js/2.05376468.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a193b3e569c7c8bcef9",
-    "url": "/ndm-test-repo/static/js/main.b7af5b8d.chunk.js"
+    "revision": "215189967b6a5948d0d0",
+    "url": "/ndm-test-repo/static/js/main.285eca7a.chunk.js"
   },
   {
     "revision": "6dcf5a61d24f4ef700a3",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "34600d6cff33b53beeca14a390876686",
     "url": "/ndm-test-repo/static/media/gallery_04.34600d6c.jpg"
+  },
+  {
+    "revision": "cb0b212ba0af7a5d723f47e385feebb7",
+    "url": "/ndm-test-repo/static/media/info.cb0b212b.png"
   },
   {
     "revision": "c91343f2987959114ab1a725ea5004c6",
