@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b08a10352b186d4f242821675faf9cda",
+    "revision": "73df85f0c87b7dcddd896e0250c98e0a",
     "url": "/ndm-test-repo/index.html"
   },
   {
-    "revision": "b39c297db9e334b255f0",
-    "url": "/ndm-test-repo/static/css/main.42fbc860.chunk.css"
+    "revision": "7468761422279a86fefb",
+    "url": "/ndm-test-repo/static/css/main.3f2f7cbe.chunk.css"
   },
   {
-    "revision": "42d172754c6e65205ea3",
-    "url": "/ndm-test-repo/static/js/2.f30b15e5.chunk.js"
+    "revision": "e5a1107946fe11f58b72",
+    "url": "/ndm-test-repo/static/js/2.24dea6e9.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/ndm-test-repo/static/js/2.f30b15e5.chunk.js.LICENSE.txt"
+    "url": "/ndm-test-repo/static/js/2.24dea6e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b39c297db9e334b255f0",
-    "url": "/ndm-test-repo/static/js/main.b42f977e.chunk.js"
+    "revision": "7468761422279a86fefb",
+    "url": "/ndm-test-repo/static/js/main.0dd92be8.chunk.js"
   },
   {
     "revision": "6dcf5a61d24f4ef700a3",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ndm-test-repo/static/media/list-type.c91343f2.svg"
   },
   {
-    "revision": "24adafc7617f82a69662ab53eb12314b",
-    "url": "/ndm-test-repo/static/media/logo-small.24adafc7.png"
-  },
-  {
     "revision": "25004e21ed5d991febe1a327da70faa7",
     "url": "/ndm-test-repo/static/media/logo.25004e21.svg"
+  },
+  {
+    "revision": "435c0c845ee8854ca543e3d7918e3c41",
+    "url": "/ndm-test-repo/static/media/menu-logo.435c0c84.png"
   },
   {
     "revision": "694ba6763bfa08a70545afe9257cd3a3",
