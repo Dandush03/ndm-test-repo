@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ndm-test-repo/static/css/main.7ec096d7.chunk.css",
-    "main.js": "/ndm-test-repo/static/js/main.3921f5d5.chunk.js",
-    "main.js.map": "/ndm-test-repo/static/js/main.3921f5d5.chunk.js.map",
+    "main.css": "/ndm-test-repo/static/css/main.08712f80.chunk.css",
+    "main.js": "/ndm-test-repo/static/js/main.f287eb8b.chunk.js",
+    "main.js.map": "/ndm-test-repo/static/js/main.f287eb8b.chunk.js.map",
     "runtime-main.js": "/ndm-test-repo/static/js/runtime-main.aa480b14.js",
     "runtime-main.js.map": "/ndm-test-repo/static/js/runtime-main.aa480b14.js.map",
     "static/js/2.bb4eb836.chunk.js": "/ndm-test-repo/static/js/2.bb4eb836.chunk.js",
     "static/js/2.bb4eb836.chunk.js.map": "/ndm-test-repo/static/js/2.bb4eb836.chunk.js.map",
     "index.html": "/ndm-test-repo/index.html",
-    "precache-manifest.9fab2473511cf0c86aa39d2be967bc3a.js": "/ndm-test-repo/precache-manifest.9fab2473511cf0c86aa39d2be967bc3a.js",
+    "precache-manifest.9a0c878e282b21ab3657a168e67de909.js": "/ndm-test-repo/precache-manifest.9a0c878e282b21ab3657a168e67de909.js",
     "service-worker.js": "/ndm-test-repo/service-worker.js",
-    "static/css/main.7ec096d7.chunk.css.map": "/ndm-test-repo/static/css/main.7ec096d7.chunk.css.map",
+    "static/css/main.08712f80.chunk.css.map": "/ndm-test-repo/static/css/main.08712f80.chunk.css.map",
     "static/js/2.bb4eb836.chunk.js.LICENSE.txt": "/ndm-test-repo/static/js/2.bb4eb836.chunk.js.LICENSE.txt",
     "static/media/contact.scss": "/ndm-test-repo/static/media/SuezOne-Regular.0d5f74db.ttf",
     "static/media/gallery_01.jpg": "/ndm-test-repo/static/media/gallery_01.609707bb.jpg",
     "static/media/gallery_02.jpg": "/ndm-test-repo/static/media/gallery_02.28749e82.jpg",
-    "static/media/gallery_04.jpg": "/ndm-test-repo/static/media/gallery_04.34600d6c.jpg",
     "static/media/info.png": "/ndm-test-repo/static/media/info.cb0b212b.png",
     "static/media/areas.scss": "/ndm-test-repo/static/media/list-type.c91343f2.svg",
     "static/media/ndm-english.mp4": "/ndm-test-repo/static/media/ndm-english.9715e239.mp4",
+    "static/media/ndm-spanish.mp4": "/ndm-test-repo/static/media/ndm-spanish.cb1b4c5d.mp4",
     "static/media/panama1.png": "/ndm-test-repo/static/media/panama1.694ba676.png",
     "static/media/panama2.jpg": "/ndm-test-repo/static/media/panama2.2444d6b0.jpg",
     "static/media/panama3.jpg": "/ndm-test-repo/static/media/panama3.ff15a53e.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.aa480b14.js",
     "static/js/2.bb4eb836.chunk.js",
-    "static/css/main.7ec096d7.chunk.css",
-    "static/js/main.3921f5d5.chunk.js"
+    "static/css/main.08712f80.chunk.css",
+    "static/js/main.f287eb8b.chunk.js"
   ]
 }
